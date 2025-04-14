@@ -13,6 +13,7 @@
 		EBA39B3C2DADB53A00277FF5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EBA39B3B2DADB53A00277FF5 /* Preview Assets.xcassets */; };
 		EBA39B442DADBA9500277FF5 /* ErrorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA39B432DADBA9500277FF5 /* ErrorView.swift */; };
 		EBA39B462DADBAF600277FF5 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA39B452DADBAF600277FF5 /* SettingView.swift */; };
+		EBA39B482DADBB5F00277FF5 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA39B472DADBB5F00277FF5 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EBA39B3B2DADB53A00277FF5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EBA39B432DADBA9500277FF5 /* ErrorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorView.swift; sourceTree = "<group>"; };
 		EBA39B452DADBAF600277FF5 /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
+		EBA39B472DADBB5F00277FF5 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				EBA39B432DADBA9500277FF5 /* ErrorView.swift */,
 				EBA39B452DADBAF600277FF5 /* SettingView.swift */,
+				EBA39B472DADBB5F00277FF5 /* DetailView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 				EBA39B362DADB53800277FF5 /* ContentView.swift in Sources */,
 				EBA39B462DADBAF600277FF5 /* SettingView.swift in Sources */,
 				EBA39B442DADBA9500277FF5 /* ErrorView.swift in Sources */,
+				EBA39B482DADBB5F00277FF5 /* DetailView.swift in Sources */,
 				EBA39B342DADB53800277FF5 /* LazyStateMachineApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
