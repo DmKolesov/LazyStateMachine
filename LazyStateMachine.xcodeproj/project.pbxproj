@@ -14,6 +14,7 @@
 		EBA39B442DADBA9500277FF5 /* ErrorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA39B432DADBA9500277FF5 /* ErrorView.swift */; };
 		EBA39B462DADBAF600277FF5 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA39B452DADBAF600277FF5 /* SettingView.swift */; };
 		EBA39B482DADBB5F00277FF5 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA39B472DADBB5F00277FF5 /* DetailView.swift */; };
+		EBA39B4A2DADBB9700277FF5 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA39B492DADBB9700277FF5 /* MainView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		EBA39B432DADBA9500277FF5 /* ErrorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorView.swift; sourceTree = "<group>"; };
 		EBA39B452DADBAF600277FF5 /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
 		EBA39B472DADBB5F00277FF5 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		EBA39B492DADBB9700277FF5 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				EBA39B432DADBA9500277FF5 /* ErrorView.swift */,
 				EBA39B452DADBAF600277FF5 /* SettingView.swift */,
 				EBA39B472DADBB5F00277FF5 /* DetailView.swift */,
+				EBA39B492DADBB9700277FF5 /* MainView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EBA39B362DADB53800277FF5 /* ContentView.swift in Sources */,
+				EBA39B4A2DADBB9700277FF5 /* MainView.swift in Sources */,
 				EBA39B462DADBAF600277FF5 /* SettingView.swift in Sources */,
 				EBA39B442DADBA9500277FF5 /* ErrorView.swift in Sources */,
 				EBA39B482DADBB5F00277FF5 /* DetailView.swift in Sources */,
