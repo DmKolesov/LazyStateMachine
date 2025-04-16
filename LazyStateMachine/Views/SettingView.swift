@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct SettingsView: View {
+    @ObservedObject var viewModel: SettingsViewModel
     var body: some View {
         NavigationStack {
             Form {
@@ -31,5 +32,5 @@ struct SettingsView: View {
 }
 
 #Preview {
-    SettingsView()
+    SettingsView(viewModel: SettingsViewModel())
 }
